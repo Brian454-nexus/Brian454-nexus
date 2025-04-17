@@ -1,6 +1,6 @@
 <!-- 🧠 PROFILE README - AESTHETIC MODE ACTIVATED -->
 
-<h1 align="center">Hi 👋, I'm Brian</h1>
+<h1 align="center">Hi 👋, I'm Brian T.✨</h1>
 <h3 align="center">🚀 Junior Software Engineer | Junior AI Architect & Engineer | Sci-Fi Dreamer</h3>
 
 <p align="center">
@@ -59,7 +59,7 @@
 - Frontend Web Dev (HTML, CSS, JS)  
 - Backend Dev with Python Flask & Node.js  
 - Game Dev with Unity 🎮  
-- Deep Dive into AI & Data Science
+- Deep Dive into Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing(NLP)
 
 ---
 
